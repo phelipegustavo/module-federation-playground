@@ -9,7 +9,7 @@ yarn build && yarn preview
 ```
 
 ### HOST
-This app consumes `<AppButton />` from remote
+This app consumes `<AppButton />` from remote in `views/HomeView.vue`
 
 Start dev server
 ```
